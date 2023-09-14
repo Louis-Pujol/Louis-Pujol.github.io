@@ -12,5 +12,5 @@ background: "../img/banner.jpg"
 *  (2022) Pujol, L. [Nonparametric estimation of a multivariate density under Kullback-Leibler loss with ISDE](https://arxiv.org/abs/2205.03199)
 *  (2021) Pujol, L. [ISDE : Independence Structure Density Estimation](https://arxiv.org/abs/2203.09783)
   
-## Thesis Manuscript
+## PhD thesis
 * (2022) [Cytometry data modeling and unsupervised classification in moderately high dimensions under the independence structure assumption](https://www.theses.fr/2022UPASM032) (available in December 2024)
