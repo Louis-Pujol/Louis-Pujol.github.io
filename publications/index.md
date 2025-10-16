@@ -13,4 +13,4 @@ background: "../img/banner.jpg"
 *  (2021) Pujol, L. [ISDE : Independence Structure Density Estimation](https://arxiv.org/abs/2203.09783)
   
 ## PhD thesis
-* (2022) [Cytometry data modeling and unsupervised classification in moderately high dimensions under the independence structure assumption](https://www.theses.fr/2022UPASM032) (available in December 2024)
+* (2022) [Cytometry data modeling and unsupervised classification in moderately high dimensions under the independence structure assumption](https://www.theses.fr/2022UPASM032)
